@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/my-second-post.md
 hide_body: false
 fields:
 - name: title
