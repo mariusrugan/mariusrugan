@@ -7,12 +7,12 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: Test
 - name: date
   label: Date
   type: text
   hidden: false
-  default: 
+  default: ''
 - name: draft
   label: Draft
   type: boolean
